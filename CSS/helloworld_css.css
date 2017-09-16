@@ -1,0 +1,32 @@
+html {
+	font-size: 16pt;
+	background: url(https://github.com/a-L-c/helloworld/blob/master/79EAF469-5226-4B17-A063-1B0DDFCE0887.JPG);
+}
+
+header {
+	height: 50px;
+	width: 100%;
+	background-color: #f3f3f3;
+}
+
+nav {
+	text-align: left;
+	word-spacing: 3em;
+}
+
+nav a {
+	font-family: "Anonymous Pro", monospace;
+	color: #C04444;
+	text-decoration: none;
+	letter-spacing: 0.20em;
+	font-size: 0.75em;
+}
+
+h1 {
+	font-family: "Source Serif Pro", serif;
+	font-size: 2.5em;
+	font-weight: bold;
+	color: (0,0,0,0.5);
+	line-height: 1.25em;
+	letter-spacing: 0.03em;
+}
